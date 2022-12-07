@@ -9,4 +9,6 @@
     <string name="vote_average_example">10</string>
     <string name="vote_average_label">Vote average:</string>
     <string name="summary">Resumen</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
 </resources>
